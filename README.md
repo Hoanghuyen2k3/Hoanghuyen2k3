@@ -2,7 +2,7 @@
 
 I love creating stuff 💓.
 
-This is my [Portfolio](https://hoanghuyen2k3.github.io/Porfolio/).
+This is my [Portfolio](https://thihuyen.vercel.app/).
 
 I am a third-year student pursuing a Bachelor of Engineering in Information Systems at Humber College, driven by a relentless passion for learning and growth. As I embark on my journey towards becoming an accomplished Web Developer or Software engineer, I am actively seeking co-op opportunities ranging from 4 to 16 months, set to commence in Summer 2024.
 <!--
